@@ -1,0 +1,55 @@
+{
+  "student": [
+    {
+      "name": "asdfasd",
+      "class": "3",
+      "mobile": "24234",
+      "email": "aAQWDQWDW",
+      "category": "General",
+      "fatherName": "asdfasdf",
+      "fatherMobile": "2342134",
+      "fatherOccpation": "efasdfasdf",
+      "motherName": "rthwrthwer",
+      "motherMobile": "234342134",
+      "motherOccupation": "rthertherth",
+      "uidNo": "234123542",
+      "address": "afasdca",
+      "nationality": "yrhjertherth",
+      "id": 10
+    },
+    {
+      "name": "aascascasdc",
+      "class": "9",
+      "mobile": "23412341",
+      "email": "sdasdv",
+      "category": "General",
+      "fatherName": "afgsgwer",
+      "fatherMobile": "23412351",
+      "fatherOccpation": "fwerbwrtg",
+      "motherName": "ewrgwerge",
+      "motherMobile": "2134523523",
+      "motherOccupation": "ergwergwerg",
+      "uidNo": "341234214",
+      "address": "sdvvewrve",
+      "nationality": "sadvasdv",
+      "id": 11
+    },
+    {
+      "name": "aafasdf",
+      "class": "3",
+      "mobile": "2134123",
+      "email": "sdfasdf",
+      "category": "General",
+      "fatherName": "sadfasdf",
+      "fatherMobile": "234123",
+      "fatherOccpation": "wdfasdf",
+      "motherName": "faawef",
+      "motherMobile": "234123",
+      "motherOccupation": "fergqerg",
+      "uidNo": "23412342",
+      "address": "431223",
+      "nationality": "sgerg",
+      "id": 12
+    }
+  ]
+}
