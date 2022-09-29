@@ -4,7 +4,6 @@ import { Button, Card } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useDispatch } from "react-redux";
-import { deleteUser } from "../../misc/studentSlice";
 import { changeId } from "../../misc/idSlice";
 
 function StudentCard({ name, mobile, email, fatherName, motherName, id }) {
