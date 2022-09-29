@@ -63,7 +63,7 @@ function HomeScreen() {
                 id={user.id}
                 name={user.name}
                 mobile={user.mobile}
-                email={user.mobile}
+                email={user.email}
                 fatherName={user.fatherName}
                 motherName={user.motherName}
               ></StudentCard>
