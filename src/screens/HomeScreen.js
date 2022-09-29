@@ -5,23 +5,6 @@ import StudentCard from "../components/elements/StudentCard";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useDispatch, useSelector } from "react-redux";
-import { stateUpdate } from "../misc/studentSlice";
-const initialValue = {
-  address: "",
-  category: "",
-  class: "",
-  email: "",
-  fatherMobile: "",
-  fatherName: "",
-  fatherOccpation: "",
-  id: "",
-  mobile: "",
-  motherMobile: "",
-  motherName: "",
-  motherOccupation: "",
-  nationality: "",
-  uidNo: "",
-};
 
 function HomeScreen() {
   const nav = useNavigate();
